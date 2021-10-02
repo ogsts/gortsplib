@@ -13,8 +13,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"golang.org/x/net/ipv4"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/headers"
+	"github.com/ogsts/gortsplib/pkg/base"
+	"github.com/ogsts/gortsplib/pkg/headers"
 )
 
 func multicastCapableIP(t *testing.T) string {

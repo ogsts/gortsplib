@@ -15,8 +15,8 @@ import (
 	psdp "github.com/pion/sdp/v3"
 	"github.com/stretchr/testify/require"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/headers"
+	"github.com/ogsts/gortsplib/pkg/base"
+	"github.com/ogsts/gortsplib/pkg/headers"
 )
 
 func writeReqReadRes(bconn *bufio.ReadWriter, req base.Request) (*base.Response, error) {

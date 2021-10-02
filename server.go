@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/liberrors"
+	"github.com/ogsts/gortsplib/pkg/base"
+	"github.com/ogsts/gortsplib/pkg/liberrors"
 )
 
 func extractPort(address string) (int, error) {

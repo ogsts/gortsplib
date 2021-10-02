@@ -7,8 +7,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/liberrors"
+	"github.com/ogsts/gortsplib/pkg/base"
+	"github.com/ogsts/gortsplib/pkg/liberrors"
 )
 
 type listenerPair struct {

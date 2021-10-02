@@ -10,7 +10,7 @@ import (
 
 	"github.com/pion/rtp"
 
-	"github.com/aler9/gortsplib/pkg/h264"
+	"github.com/ogsts/gortsplib/pkg/h264"
 )
 
 // ErrMorePacketsNeeded is returned when more packets are needed.

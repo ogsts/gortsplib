@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/net/ipv4"
 
-	"github.com/aler9/gortsplib/pkg/multibuffer"
+	"github.com/ogsts/gortsplib/pkg/multibuffer"
 )
 
 const (

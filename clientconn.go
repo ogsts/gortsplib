@@ -15,13 +15,13 @@ import (
 
 	psdp "github.com/pion/sdp/v3"
 
-	"github.com/aler9/gortsplib/pkg/auth"
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/headers"
-	"github.com/aler9/gortsplib/pkg/liberrors"
-	"github.com/aler9/gortsplib/pkg/multibuffer"
-	"github.com/aler9/gortsplib/pkg/rtcpreceiver"
-	"github.com/aler9/gortsplib/pkg/rtcpsender"
+	"github.com/ogsts/gortsplib/pkg/auth"
+	"github.com/ogsts/gortsplib/pkg/base"
+	"github.com/ogsts/gortsplib/pkg/headers"
+	"github.com/ogsts/gortsplib/pkg/liberrors"
+	"github.com/ogsts/gortsplib/pkg/multibuffer"
+	"github.com/ogsts/gortsplib/pkg/rtcpreceiver"
+	"github.com/ogsts/gortsplib/pkg/rtcpsender"
 )
 
 const (

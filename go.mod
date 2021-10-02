@@ -1,4 +1,4 @@
-module github.com/aler9/gortsplib
+module github.com/ogsts/gortsplib
 
 go 1.15
 

@@ -10,10 +10,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/headers"
-	"github.com/aler9/gortsplib/pkg/liberrors"
-	"github.com/aler9/gortsplib/pkg/rtcpreceiver"
+	"github.com/ogsts/gortsplib/pkg/base"
+	"github.com/ogsts/gortsplib/pkg/headers"
+	"github.com/ogsts/gortsplib/pkg/liberrors"
+	"github.com/ogsts/gortsplib/pkg/rtcpreceiver"
 )
 
 const (

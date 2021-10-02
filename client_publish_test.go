@@ -11,9 +11,9 @@ import (
 	"github.com/pion/rtp"
 	"github.com/stretchr/testify/require"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/headers"
-	"github.com/aler9/gortsplib/pkg/rtcpreceiver"
+	"github.com/ogsts/gortsplib/pkg/base"
+	"github.com/ogsts/gortsplib/pkg/headers"
+	"github.com/ogsts/gortsplib/pkg/rtcpreceiver"
 )
 
 func TestClientPublishSerial(t *testing.T) {

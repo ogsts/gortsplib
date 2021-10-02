@@ -7,9 +7,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/aler9/gortsplib"
-	"github.com/aler9/gortsplib/pkg/h264"
-	"github.com/aler9/gortsplib/pkg/rtph264"
+	"github.com/ogsts/gortsplib"
+	"github.com/ogsts/gortsplib/pkg/h264"
+	"github.com/ogsts/gortsplib/pkg/rtph264"
 	"github.com/asticode/go-astits"
 	"github.com/pion/rtp"
 )

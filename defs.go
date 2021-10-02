@@ -1,7 +1,7 @@
 package gortsplib
 
 import (
-	"github.com/aler9/gortsplib/pkg/base"
+	"github.com/ogsts/gortsplib/pkg/base"
 )
 
 // StreamType is the stream type.

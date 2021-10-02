@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/liberrors"
-	"github.com/aler9/gortsplib/pkg/multibuffer"
-	"github.com/aler9/gortsplib/pkg/ringbuffer"
+	"github.com/ogsts/gortsplib/pkg/base"
+	"github.com/ogsts/gortsplib/pkg/liberrors"
+	"github.com/ogsts/gortsplib/pkg/multibuffer"
+	"github.com/ogsts/gortsplib/pkg/ringbuffer"
 )
 
 const (
